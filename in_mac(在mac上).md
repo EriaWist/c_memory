@@ -1,6 +1,6 @@
 可以先裝[Homebrew](https://brew.sh/)
-<\br >他會將liunx上常用的套件裝一裝
-<\br >
+<br \>他會將liunx上常用的套件裝一裝
+<br \>
 ## 另一種方法 透過[GNU](https://github.com/EriaWist/Free_Software_Introduction/blob/main/GNU)網站(GNU是一個自由的作業系統，其內容軟體完全以GPL方式釋出)
 ```
 传统的安装包
